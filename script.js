@@ -1,6 +1,6 @@
 //Ejercicio #1
 
-let compras = ["manzana"]
+let compras = ["manzana"];
 console.log(compras);
 
 
@@ -29,6 +29,22 @@ console.log(tareas);
 
 tareas.shift()
 console.log(tareas)
+
+//Ejercicio #3
+
+let historial = ["google.com", "youtube.com", "facebook.com"];
+
+historial.pop()
+console.log(historial);
+
+historial.pop()
+console.log(historial);
+
+
+
+
+
+
 
 
 
