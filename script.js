@@ -55,6 +55,18 @@ console.log(colaImpresion);
 colaImpresion.shift()
 console.log(colaImpresion);
 
+//Ejercicio #5
+
+let fila = ["Ana", "Luis", "Carlos", "Maria"];
+console.log(fila);
+
+fila.splice(1,1)
+console.log(fila);
+
+fila.splice(1,0,"Jorge")
+console.log(fila)
+
+
 
 
 
