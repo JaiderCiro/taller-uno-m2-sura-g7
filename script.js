@@ -93,6 +93,15 @@ console.log(productos);
 productos.splice(2,1,"Mouse Nuevo")
 console.log(productos);
 
+//Ejercicio #9 
+
+let estudiantes = ["Zapata", "Alvarez", "Gomez", "Bernal"];
+console.log(estudiantes);
+
+estudiantes.sort()
+console.log(estudiantes);
+
+
 
 
 
