@@ -66,6 +66,20 @@ console.log(fila);
 fila.splice(1,0,"Jorge")
 console.log(fila)
 
+//Ejercicio #6
+
+let mazo = ["As", "Rey", "Reina", "Jota"];
+console.log(mazo);
+
+mazo.reverse()
+console.log(mazo);
+
+mazo.shift()
+console.log(mazo);
+
+
+
+
 
 
 
