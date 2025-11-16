@@ -110,21 +110,16 @@ console.log(puntuaciones);
 puntuaciones.fill(0);
 console.log(puntuaciones);
 
+//Ejercicio #11
 
+let carrito = [];
+console.log(carrito);
 
+carrito.push("Camisa", "Pantalon")
+console.log(carrito);
 
+carrito.unshift("Zapato")
+console.log(carrito);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+carrito.splice(1,1); 
+console.log(carrito);
