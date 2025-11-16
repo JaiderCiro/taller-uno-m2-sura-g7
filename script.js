@@ -150,11 +150,14 @@ console.log(receta);
 receta.push("Paso 4: Servir");
 console.log(receta);
 
+//Ejercicio #14
 
+let palabras = ["uno", "dos", "cuatro"];
+console.log(palabras);
 
+palabras.reverse();
+console.log(palabras);
 
-
-
-
-
+palabras.splice(0,1,"Tres");
+console.log(palabras);
 
