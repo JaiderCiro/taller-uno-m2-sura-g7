@@ -161,3 +161,15 @@ console.log(palabras);
 palabras.splice(0,1,"Tres");
 console.log(palabras);
 
+//Ejercicio #15
+
+let equipo = ["Ana (Líder)", "Juan (Dev)", "Maria (Diseñadora)"]
+console.log(equipo);
+
+equipo.splice(1,1);
+console.log(equipo);
+
+equipo.push("Pedro (Dev)", "Luisa (Dev)");
+console.log(equipo);
+
+
