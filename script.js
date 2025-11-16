@@ -183,5 +183,19 @@ console.log(parking);
 parking.splice(0,2,"MotoA", "MotoB");
 console.log(parking);
 
+//Ejercicio #17 
+
+let feed = ["Foto de Ana", "Video de Juan", "Noticia de Empresa"];
+console.log(feed);
+
+feed.unshift("Alerta de Sistema");
+console.log(feed);
+
+feed.pop();
+console.log(feed);
+
+
+
+
 
 
