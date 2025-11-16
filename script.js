@@ -205,6 +205,16 @@ console.log(invitados);
 invitados.splice(1,1); 
 console.log(invitados);
 
+//Ejercicio #19 
+
+let tablero = ["Inicio", null, null, null, null, "Fin"];
+console.log(tablero);
+
+tablero.fill("Casilla Vacía",1,5)
+console.log(tablero);
+
+
+
 
 
 
